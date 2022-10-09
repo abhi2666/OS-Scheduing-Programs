@@ -1,4 +1,4 @@
-// WORKING FCFS
+// WORKING FCFS with arrival time 
 #include <stdio.h>
 
 void WTandTAT(int at[], int bt[], int wt[], int tat[], int n)
